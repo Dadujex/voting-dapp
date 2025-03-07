@@ -17,7 +17,7 @@ A decentralized voting application built with Solidity smart contracts and a Rea
 
 ## Prerequisites
 
-- [Node.js](https://nodejs.org/) (v16 or higher recommended)
+- [Node.js](https://nodejs.org/)
 - [MetaMask](https://metamask.io/) browser extension
 - A local Ethereum network (e.g., Hardhat) or a testnet (e.g., Ganache)
 
