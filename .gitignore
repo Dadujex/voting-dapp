@@ -1,0 +1,25 @@
+node_modules/
+npm-debug.log
+yarn-error.log
+package-lock.json  # Ha nem Yarn-t használsz, ezt kihagyhatod
+
+artifacts/
+cache/
+dist/
+coverage/
+coverage.json
+
+dist/
+build/
+*.log
+
+.env
+.env.local
+.env.development
+.env.production
+
+.vscode/
+.idea/
+
+.DS_Store
+Thumbs.db
